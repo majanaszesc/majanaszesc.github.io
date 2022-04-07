@@ -1,0 +1,6 @@
+<table>…</table> – znacznik otwarcia i zamknięcia tabeli,
+
+<tr>…</tr> – znacznik otwarcia i zamknięcia wiersza, stosowany na początku i końcu każdego wiersza,
+
+<td></td> – treść komórki znacznik otwarcia i zamknięcia kolumny, stosowany wielokrotnie w jednym wierszu,
+ w zależności od ilości kolumn, pomiędzy znacznikami otwarcia i zamknięcia wiersza.
